@@ -1,4 +1,4 @@
-# Contains Studio AI Agents
+# Luis' AI Agents
 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
 
@@ -6,23 +6,21 @@ A comprehensive collection of specialized AI agents designed to accelerate and e
 
 1. **Download this repository:**
    ```bash
-   git clone https://github.com/contains-studio/agents.git
+   git clone https://github.com/luguina/agents.git
    ```
 
-2. **Copy to your Claude Code agents directory:**
+2. **Copy to your Gemini agents directory:**
    ```bash
-   cp -r agents/* ~/.claude/agents/
+   cp -r agents/* ~/.gemini/agents/
    ```
    
-   Or manually copy all the agent files to your `~/.claude/agents/` directory.
+   Or manually copy all the agent files to your `~/.gemini/agents/` directory.
 
-3. **Restart Claude Code** to load the new agents.
+3. **Restart Gemini** to load the new agents.
 
 ## 🚀 Quick Start
 
-Agents are automatically available in Claude Code. Simply describe your task and the appropriate agent will be triggered. You can also explicitly request an agent by mentioning their name.
-
-📚 **Learn more:** [Claude Code Sub-Agents Documentation](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
+Agents are automatically available in Gemini. Simply describe your task and the appropriate agent will be triggered. You can also explicitly request an agent by mentioning their name.
 
 ### Example Usage
 - "Create a new app for tracking meditation habits" → `rapid-prototyper`
@@ -136,7 +134,6 @@ contains-studio-agents/
 
 ## 🎁 Bonus Agents
 - **studio-coach** - Rally the AI troops to excellence
-- **joker** - Lighten the mood with tech humor
 
 ## 🎯 Proactive Agents
 
