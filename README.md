@@ -33,7 +33,7 @@ Agents are automatically available in Gemini. Simply describe your task and the 
 Agents are organized by department for easy discovery:
 
 ```
-contains-studio-agents/
+luis-agents/
 ├── design/
 │   ├── brand-guardian.md
 │   ├── ui-designer.md
